@@ -7,13 +7,11 @@
 
 ## My contacts and more !
  <div style="display: inline-block">
-   <a href="https://www.linkedin.com/in/eric-rodrigues-610460210/" target="_blank">  
-     <img align="center" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-   </a>  
-   <a href="mailto:eric.r.c@usp.br" target="_blank">  
-     <img align="center" height="35" width="35" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63">
-   </a> 
- </div>
+  <a href="//www.instagram.com/ericrc_01" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eric.r.c@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https:https://www.linkedin.com/in/eric-rodrigues-610460210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 
 ## Here, some stats and tecnologies i post :)
