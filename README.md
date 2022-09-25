@@ -28,6 +28,3 @@
   
   
   
- ## Snake commit : D
-
-  ![Snake animation](https://github.com/EricRC-01/blob/output/github-contribution-grid-snake.svg)
