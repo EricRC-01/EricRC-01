@@ -9,8 +9,8 @@
 
  <div >
     <a href="https://github.com/EricRC-01">
-      <img src="https://github-readme-stats.vercel.app/api?username=EricRC-01&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>      
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricRC-01&langs_count=7&theme=gotham"/>   
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=EricRC-01&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>      
+      <img height="200em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricRC-01&langs_count=7&theme=gotham"/>   
     </a>
   </div>
 
