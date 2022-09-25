@@ -15,11 +15,13 @@
   </div>
 
 ## My contacts and more !
-<div style="display: inline-block">
-  <a href="https://www.linkedin.com/in/eric-rodrigues-610460210/" target="_blank">  
-    <img align="center" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-  </a>  
-  <a href="mailto:eric.r.c@usp.br" target="_blank">  
-    <img align="center" height="35" width="35" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63">
-  </a> 
+ <div >
+ <div style="display: inline-block">
+   <a href="https://www.linkedin.com/in/eric-rodrigues-610460210/" target="_blank">  
+     <img align="center" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+   </a>  
+   <a href="mailto:eric.r.c@usp.br" target="_blank">  
+     <img align="center" height="35" width="35" src="https://www.google.com/gmail/about/static/images/logo-gmail.png?cache=1adba63">
+   </a> 
+ </div>
 </div>
