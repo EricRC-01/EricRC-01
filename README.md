@@ -13,6 +13,7 @@
   
 </div>
 * 🌲 Here on my linktree, you cancheck all my links, contacts an more: https://linktr.ee/EricRC_01
+* aacc
 
 
 ## Here, some stats and tecnologies i post :)
