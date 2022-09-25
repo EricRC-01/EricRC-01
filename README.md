@@ -23,7 +23,7 @@
   <a href = "mailto:eric.r.c@usp.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https:https://www.linkedin.com/in/eric-rodrigues-610460210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-🌲 Here, on my linktree, you cancheck all my links, contacts an more: https://linktr.ee/EricRC_01
+🌲 Here, on my linktree, you can check all my links, contacts an more: https://linktr.ee/EricRC_01
     
   
   
